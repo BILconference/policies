@@ -110,9 +110,8 @@ to community business.
 
 ## 9.‎ ‏Contact info
 
-‎[‏YOUR CONTACT INFO HERE -- this should be a single
-person or a small team who can respond to issues
-directly]
+‎ Michael Cummings - [michael@bilconference.com](mailto:michael@bilconfence.com)
+‎ Cody Bailey - [cody@bilconference.com](mailto:cody@bilconference.com)
 
 ## 10.‎ ‏License and attribution
 
