@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-A primary goal of COMMUNITY_NAME is to be inclusive to
+A primary goal of BIL is to be inclusive to
 the largest number of contributors, with the most varied
 and diverse backgrounds possible. As such, we are committed
 to providing a friendly, safe and welcoming environment for
@@ -14,13 +14,13 @@ This code of conduct outlines our expectations for all
 those who participate in our community, as well as the
 consequences for unacceptable behavior.
 
-We invite all those who participate in COMMUNITY_NAME to
+We invite all those who participate in BIL to
 help us create safe and positive experiences for everyone.
 
-## 2.‎ ‏Open [Source/Culture/Tech] Citizenship
+## 2.‎ ‏Open Culture Citizenship
 
 A supplemental goal of this Code of Conduct is to
-increase open [source/culture/tech] citizenship by encouraging
+increase open culture citizenship by encouraging
 participants to recognize and strengthen the relationships
 between our actions and their effects on our community.
 
@@ -77,7 +77,7 @@ without refund in the case of a paid event).
 
 If you are subject to or witness unacceptable behavior, or
 have any other concerns, please notify a community organizer
-as soon as possible. [CONTACT_INFO_HERE]
+as soon as possible. community@BILconference.com
 
 Additionally, community organizers are available to help
 community members engage with local law enforcement or to
@@ -90,7 +90,7 @@ distress.
 
 If you feel you have been falsely or unfairly accused of
 violating this Code of Conduct, you should notify
-GOVERNING_BODY with a concise description of your grievance.
+BIL local organizers with a concise description of your grievance.
 Your grievance will be handled in accordance with our
 existing governing policies. [LINK_TO_POLICY]
 
@@ -119,5 +119,4 @@ directly]
 This Code of Conduct is distributed under a [Creative
 Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/)
 
-_Revision 2.0, adopted by the [Stumptown
-Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
+_Revision 2.0, adopted by [BIL] (http://bilconference.com) on September 15 2014._
